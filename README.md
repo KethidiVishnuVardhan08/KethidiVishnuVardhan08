@@ -24,23 +24,34 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class VishnuVardhan:
-    def __init__(self):
-        self.name       = "Kethidi Vishnu Vardhan"
-        self.university = "Lovely Professional University, Punjab"
-        self.degree     = "B.Tech Computer Science & Engineering (2023–2027)"
-        self.role       = "Aspiring Full-Stack Developer & ML Enthusiast"
-        self.languages  = ["C", "Java", "Python", "JavaScript", "HTML", "CSS"]
-        self.interests  = ["Web Development", "Machine Learning", "DSA", "GUI Apps"]
-        self.currently  = "Building projects that solve real-world problems 🚀"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together.")
+### 👋 Hi, I'm **Kethidi Vishnu Vardhan**
+#### Aspiring Full-Stack Developer & Machine Learning Enthusiast
 
-me = VishnuVardhan()
-me.say_hi()
-```
+</div>
+
+<br/>
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+🎓 &nbsp;**B.Tech Computer Science & Engineering** @ Lovely Professional University, Punjab *(2023–2027)*
+
+💻 &nbsp;Passionate about building **real-world applications** that solve meaningful problems
+
+🤖 &nbsp;Exploring the world of **Machine Learning** and intelligent systems
+
+🏗️ &nbsp;Built projects in **Java GUI Apps** and **Web Development**
+
+📊 &nbsp;Sharpening my **DSA & problem-solving** skills daily
+
+🌱 &nbsp;Currently diving deeper into **Full-Stack Development & Gen AI**
+
+⚡ &nbsp;I believe in writing **clean, efficient, and scalable code**
+
+📫 &nbsp;Reach me at **kethidivishnuvardhan47@gmail.com**
+
+<br clear="right"/>
 
 ---
 
